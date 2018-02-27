@@ -1,0 +1,13 @@
+a{
+  padding: 5px;
+  text-decoration: none;
+}
+
+a, a:visited {
+  color: black;
+}
+
+a.active {
+  color: white;
+  background: black;
+}
